@@ -7,7 +7,7 @@ The price is real-time using the Yahoo and Google finance API while the trading 
 The project is developed using an MVC architectural pattern.
 
 ## Features
-- Log in, log out and register.
+- Log in, log out, and register.
 - Deposit and withdraw money
 - Buy and sell stocks
 - View current portfolio
